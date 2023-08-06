@@ -1,0 +1,24 @@
+Time completed: 6:19
+Number of darts used: 27
+Checkout: 118
+Number of out attempts: 2
+3 dart average number: 55.7
+1 dart average: 18.6
+Number of rounds: 9
+Number of scores 60+ to 99: 2
+Number of scores 100+ to 139: 1
+Number of scores 140+ to 179: 0
+Number of 180's tallied this match: 0
+
+
+Time completed: 6:32
+Number of darts used: 33
+Checkout: 16
+Number of out attempts: 4
+3 dart average number: 45.5
+1 dart average: 15.2
+Number of rounds: 11
+Number of scores 60+ to 99: 4
+Number of scores 100+ to 139: 0
+Number of scores 140+ to 179: 0
+Number of 180's tallied this match: 0

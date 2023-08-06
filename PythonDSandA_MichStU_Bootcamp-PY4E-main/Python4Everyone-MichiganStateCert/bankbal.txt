@@ -1,0 +1,3 @@
+BATCH #0 - Bank Account Balance:$371.33 - as of DATE~05-06-2019 @ TIME~12:38:39
+
+BATCH #1 - Bank Account Balance:$357.77 - as of DATE~05-06-2019 @ TIME~20:15:26

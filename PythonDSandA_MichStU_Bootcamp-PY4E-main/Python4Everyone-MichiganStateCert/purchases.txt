@@ -1,0 +1,2 @@
+{'Toilet Paper': False, 'Hello Fresh': True, 'Pods': True}
+12:54:09 05-07-2019
